@@ -1,3 +1,4 @@
 /movies-service/src/node_modules/
 /movies-service/src/.env
 
+/.idea/
